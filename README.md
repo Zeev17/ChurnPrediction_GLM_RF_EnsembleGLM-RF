@@ -1,6 +1,6 @@
 # ChurnPrediction_GLM_RF_EnsembleGLM-RF
 We are going to predict churn for a telecom operator. We will learn resampling method using caret and generate your first ensemble model made up with a GLM and a Random Forest
-setwd("C:/Users/Install/Desktop/CASE_R_september")
+setwd("")
 
 #summarize the target variable
 library(caret)
