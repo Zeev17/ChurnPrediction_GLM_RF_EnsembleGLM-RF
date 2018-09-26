@@ -1,4 +1,4 @@
-setwd("C:/Users/Install/Desktop/CASE_R_september")
+setwd("")
 
 #summarize the target variable
 library(caret)
